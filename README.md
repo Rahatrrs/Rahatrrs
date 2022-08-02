@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me just mail me: tsynap@gmail.com
+- 📫 How to reach me : tsynap@gmail.com
 
 
 <!---
